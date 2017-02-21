@@ -27,6 +27,13 @@ namespace ProjetoModeloDDD.MVC.Controllers
         }
 
         //
+        // GET: /Clientes/Create
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        //
         // POST: /Clientes/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -41,23 +48,6 @@ namespace ProjetoModeloDDD.MVC.Controllers
             }
 
             return View(cliente);
-        }
-
-        //
-        // POST: /Clientes/Create
-        [HttpPost]
-        public ActionResult Create(FormCollection collection)
-        {
-            try
-            {
-                // TODO: Add insert logic here
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
         }
 
         //
