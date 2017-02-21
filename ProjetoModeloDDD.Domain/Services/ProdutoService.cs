@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace ProjetoModeloDDD.Domain.Services
 {
-    class ProdutoService : ServiceBase<Produto>, IProdutoService
+    public class ProdutoService : ServiceBase<Produto>, IProdutoService
     {
         private readonly IProdutoRepository _produtoRepository;
         public ProdutoService(IProdutoRepository produtoRepository)
