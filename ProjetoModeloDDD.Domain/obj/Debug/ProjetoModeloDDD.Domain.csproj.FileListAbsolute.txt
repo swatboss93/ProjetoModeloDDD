@@ -2,3 +2,4 @@ D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Dom
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
+D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csprojResolveAssemblyReference.cache
