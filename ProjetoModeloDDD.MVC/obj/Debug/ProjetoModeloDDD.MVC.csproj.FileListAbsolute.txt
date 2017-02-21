@@ -5,8 +5,8 @@ D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
+D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.dll
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
-D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.dll
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
@@ -15,9 +15,8 @@ D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebGrease.dll
-D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Application.pdb
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
-D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data.pdb
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
@@ -28,7 +27,6 @@ D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.xml
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.xml
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.pdb
-D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
 D:\Projetos\Visual Studio\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
